@@ -1,6 +1,6 @@
 # garyandersonnet
 website for GaryAnderson.net
 
-/: Link [garyanderson.net](https://garyanderson.neet)
+/: Link [garyanderson.net](https://garyanderson.net)
 )
 
